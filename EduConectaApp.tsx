@@ -1,0 +1,1 @@
+/* EduConectaApp.tsx completo conforme descrito acima */
